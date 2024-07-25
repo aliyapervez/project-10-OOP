@@ -53,7 +53,7 @@ const programStart =async(persons:Person)=>{
 
     }else {
         console.log(`Hello! i am ${student.name}, Nice to see you again!`);
-        console.log("Existing student list:");
+        console.log("Exists in student list:");
         console.log(persons.students);
         
     }
