@@ -1,0 +1,22 @@
+{
+  "name": "project-10-oop",
+  "version": "1.0.0",
+  "description": "This is the console OOP project with Typescript, Inquirer and Node.js",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aliya Pervez",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.10"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
